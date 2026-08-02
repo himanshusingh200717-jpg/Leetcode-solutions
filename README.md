@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0078-subsets](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0078-subsets) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 ## String
 |  |
 | ------- |
@@ -47,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0078-subsets) |
+## Binary Search
+|  |
+| ------- |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 <!---LeetCode Topics End-->
