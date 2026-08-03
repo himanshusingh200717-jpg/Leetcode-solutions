@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0050-powx-n) |
 | [1406-stone-game-iii](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1406-stone-game-iii) |
 ## Dynamic Programming
 |  |
@@ -90,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0129-sum-root-to-leaf-numbers](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0129-sum-root-to-leaf-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
