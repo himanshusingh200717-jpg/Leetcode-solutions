@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0078-subsets](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [1406-stone-game-iii](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1406-stone-game-iii) |
 ## String
 |  |
 | ------- |
@@ -52,4 +53,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+## Math
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1406-stone-game-iii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1406-stone-game-iii) |
+## Game Theory
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
