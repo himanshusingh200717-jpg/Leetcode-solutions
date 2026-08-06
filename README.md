@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [1406-stone-game-iii](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1406-stone-game-iii) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2367-number-of-arithmetic-triplets](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2367-number-of-arithmetic-triplets) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Tree
 |  |
 | ------- |
