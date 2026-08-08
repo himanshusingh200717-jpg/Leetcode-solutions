@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0696-count-binary-substrings](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0696-count-binary-substrings) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Sorting
 |  |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
 | [0322-coin-change](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0322-coin-change) |
 | [1406-stone-game-iii](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1406-stone-game-iii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Game Theory
 |  |
 | ------- |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0696-count-binary-substrings](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0696-count-binary-substrings) |
 | [2367-number-of-arithmetic-triplets](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2367-number-of-arithmetic-triplets) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Enumeration
 |  |
 | ------- |
@@ -168,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
 |  |
