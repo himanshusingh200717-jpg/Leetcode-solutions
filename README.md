@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0696-count-binary-substrings](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0696-count-binary-substrings) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [2833-furthest-point-from-origin](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2833-furthest-point-from-origin) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Sorting
@@ -220,4 +221,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+## Counting
+|  |
+| ------- |
+| [2833-furthest-point-from-origin](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2833-furthest-point-from-origin) |
 <!---LeetCode Topics End-->
