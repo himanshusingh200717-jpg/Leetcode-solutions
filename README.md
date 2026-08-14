@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1929-concatenation-of-array](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1929-concatenation-of-array) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2367-number-of-arithmetic-triplets](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2367-number-of-arithmetic-triplets) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
