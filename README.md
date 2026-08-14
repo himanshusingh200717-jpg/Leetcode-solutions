@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0133-clone-graph](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0133-clone-graph) |
+| [0560-subarray-sum-equals-k](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0705-design-hashset](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0706-design-hashmap) |
 | [2367-number-of-arithmetic-triplets](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2367-number-of-arithmetic-triplets) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0304-range-sum-query-2d-immutable](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0322-coin-change](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0322-coin-change) |
+| [0560-subarray-sum-equals-k](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0705-design-hashset](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0706-design-hashmap) |
 | [1140-stone-game-ii](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1140-stone-game-ii) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0304-range-sum-query-2d-immutable) |
+| [0560-subarray-sum-equals-k](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1140-stone-game-ii](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1140-stone-game-ii) |
 ## Zero-Sum Game
 |  |
