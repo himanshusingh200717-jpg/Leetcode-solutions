@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2784-check-if-array-is-good) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## String
 |  |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0090-subsets-ii) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Binary Search
 |  |
 | ------- |
