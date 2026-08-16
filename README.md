@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0040-combination-sum-ii](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0041-first-missing-positive) |
+| [0047-permutations-ii](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0078-subsets) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0148-sort-list) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0040-combination-sum-ii) |
+| [0047-permutations-ii](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0090-subsets-ii) |
