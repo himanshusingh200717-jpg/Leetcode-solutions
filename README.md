@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0706-design-hashmap) |
 | [1140-stone-game-ii](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1406-stone-game-iii) |
+| [1563-stone-game-v](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1563-stone-game-v) |
 | [1929-concatenation-of-array](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2029-stone-game-ix](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [1140-stone-game-ii](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1406-stone-game-iii) |
+| [1563-stone-game-v](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1563-stone-game-v) |
 | [1952-three-divisors](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1952-three-divisors) |
 | [2029-stone-game-ix](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2180-count-integers-with-even-digit-sum) |
@@ -153,12 +155,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0322-coin-change) |
 | [1140-stone-game-ii](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1406-stone-game-iii) |
+| [1563-stone-game-v](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1563-stone-game-v) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Game Theory
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1406-stone-game-iii) |
+| [1563-stone-game-v](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2029-stone-game-ix) |
 ## Two Pointers
 |  |
