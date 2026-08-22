@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3701-compute-alternating-sum](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3701-compute-alternating-sum) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3731-find-missing-elements) |
+| [3940-limit-occurrences-in-sorted-array](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## String
 |  |
 | ------- |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2697-lexicographically-smallest-palindrome](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2697-lexicographically-smallest-palindrome) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3794-reverse-string-prefix](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3794-reverse-string-prefix) |
+| [3940-limit-occurrences-in-sorted-array](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Enumeration
 |  |
 | ------- |
