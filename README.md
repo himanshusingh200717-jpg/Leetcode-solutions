@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2367-number-of-arithmetic-triplets](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2418-sort-the-people](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2418-sort-the-people) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2475-number-of-unequal-triplets-in-array) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2784-check-if-array-is-good](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2784-check-if-array-is-good) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2485-find-the-pivot-integer](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2485-find-the-pivot-integer) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3908-valid-digit-number](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3908-valid-digit-number) |
