@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3842-toggle-light-bulbs](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3842-toggle-light-bulbs) |
 | [3925-concatenate-array-with-reverse](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3925-concatenate-array-with-reverse) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3940-limit-occurrences-in-sorted-array) |
+| [4020-elevator-requests-i](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/4020-elevator-requests-i) |
 ## String
 |  |
 | ------- |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3842-toggle-light-bulbs](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3842-toggle-light-bulbs) |
 | [3894-traffic-signal-color](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3894-traffic-signal-color) |
 | [3925-concatenate-array-with-reverse](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3925-concatenate-array-with-reverse) |
+| [4020-elevator-requests-i](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/4020-elevator-requests-i) |
 ## Linked List
 |  |
 | ------- |
