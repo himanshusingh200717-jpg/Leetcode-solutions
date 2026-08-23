@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0696-count-binary-substrings](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0696-count-binary-substrings) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1927-sum-game](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1927-sum-game) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2418-sort-the-people](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2418-sort-the-people) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1927-sum-game) |
 | [1952-three-divisors](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1952-three-divisors) |
 | [2029-stone-game-ix](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2180-count-integers-with-even-digit-sum) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2029-stone-game-ix) |
 ## Two Pointers
 |  |
@@ -315,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0881-boats-to-save-people](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [1386-cinema-seat-allocation](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
