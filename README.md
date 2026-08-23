@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0041-first-missing-positive](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0127-word-ladder](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0133-clone-graph) |
 | [0229-majority-element-ii](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0433-minimum-genetic-mutation](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0433-minimum-genetic-mutation) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0207-course-schedule) |
 | [0322-coin-change](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0322-coin-change) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0127-word-ladder](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0127-word-ladder) |
 | [0412-fizz-buzz](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0433-minimum-genetic-mutation](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0433-minimum-genetic-mutation) |
 | [0696-count-binary-substrings](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0696-count-binary-substrings) |
@@ -483,5 +486,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bidirectional Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0127-word-ladder) |
 | [0433-minimum-genetic-mutation](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0433-minimum-genetic-mutation) |
 <!---LeetCode Topics End-->
