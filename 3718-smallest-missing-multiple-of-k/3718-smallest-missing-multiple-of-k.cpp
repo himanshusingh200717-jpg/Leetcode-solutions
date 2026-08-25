@@ -1,15 +1,12 @@
 class Solution {
 public:
     int missingMultiple(vector<int>& nums, int k) {
-        sort(nums.begin(),nums.end());
+        set<int>st(nums.begin(),nums.end());
         int count=1;
-        for(int i=0;i<nums.size();i++){
-            if(nums[i]==k*count){
-                count++;
-            }
-
+        while(st.count(k*count)){
+            count++;
         }
-        return k*count;
+        return count*k;
         
     }
 };
