@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0706-design-hashmap) |
 | [0881-boats-to-save-people](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0881-boats-to-save-people) |
+| [0985-sum-of-even-numbers-after-queries](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1140-stone-game-ii](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1329-sort-the-matrix-diagonally](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1329-sort-the-matrix-diagonally) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0498-diagonal-traverse](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0498-diagonal-traverse) |
 | [0682-baseball-game](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0682-baseball-game) |
+| [0985-sum-of-even-numbers-after-queries](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1646-get-maximum-in-generated-array](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1646-get-maximum-in-generated-array) |
 | [1929-concatenation-of-array](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
