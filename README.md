@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0322-coin-change](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0322-coin-change) |
+| [0334-increasing-triplet-subsequence](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0498-diagonal-traverse](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0498-diagonal-traverse) |
 | [0560-subarray-sum-equals-k](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0334-increasing-triplet-subsequence](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0881-boats-to-save-people](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [1386-cinema-seat-allocation](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1927-sum-game) |
@@ -529,4 +531,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->
