@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0322-coin-change](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0322-coin-change) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0498-diagonal-traverse](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0498-diagonal-traverse) |
 | [0560-subarray-sum-equals-k](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0665-non-decreasing-array](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0665-non-decreasing-array) |
 | [0682-baseball-game](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0682-baseball-game) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0412-fizz-buzz) |
+| [0498-diagonal-traverse](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0498-diagonal-traverse) |
 | [0682-baseball-game](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0682-baseball-game) |
 | [1646-get-maximum-in-generated-array](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1646-get-maximum-in-generated-array) |
 | [1929-concatenation-of-array](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1929-concatenation-of-array) |
@@ -437,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0304-range-sum-query-2d-immutable](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0304-range-sum-query-2d-immutable) |
+| [0498-diagonal-traverse](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0498-diagonal-traverse) |
 | [1329-sort-the-matrix-diagonally](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1329-sort-the-matrix-diagonally) |
 ## Prime Factorization
 |  |
