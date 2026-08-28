@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0498-diagonal-traverse) |
 | [0523-continuous-subarray-sum](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0658-find-k-closest-elements](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0665-non-decreasing-array](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0665-non-decreasing-array) |
 | [0682-baseball-game](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0682-baseball-game) |
 | [0705-design-hashset](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0705-design-hashset) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0148-sort-list) |
 | [0229-majority-element-ii](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0658-find-k-closest-elements](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0881-boats-to-save-people](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [1329-sort-the-matrix-diagonally](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1329-sort-the-matrix-diagonally) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0278-first-bad-version) |
+| [0658-find-k-closest-elements](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 ## Math
 |  |
 | ------- |
@@ -263,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0189-rotate-array) |
+| [0658-find-k-closest-elements](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0696-count-binary-substrings](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0696-count-binary-substrings) |
 | [0881-boats-to-save-people](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0925-long-pressed-name](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0925-long-pressed-name) |
@@ -443,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0658-find-k-closest-elements](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -537,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0658-find-k-closest-elements](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [2974-minimum-number-game](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2974-minimum-number-game) |
 ## Bidirectional Search
 |  |
