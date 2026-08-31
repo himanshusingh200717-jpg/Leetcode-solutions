@@ -352,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0148-sort-list) |
 | [0705-design-hashset](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0706-design-hashmap) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Design
 |  |
 | ------- |
