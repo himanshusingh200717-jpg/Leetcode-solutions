@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2293-min-max-game](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2293-min-max-game) |
 | [2367-number-of-arithmetic-triplets](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2418-sort-the-people](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2418-sort-the-people) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2475-number-of-unequal-triplets-in-array) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2180-count-integers-with-even-digit-sum) |
+| [2293-min-max-game](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2293-min-max-game) |
 | [2974-minimum-number-game](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2974-minimum-number-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
