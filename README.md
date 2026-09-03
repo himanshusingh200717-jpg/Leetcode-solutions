@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0705-design-hashset](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0706-design-hashmap) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1386-cinema-seat-allocation](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0706-design-hashmap) |
 | [0835-image-overlap](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0835-image-overlap) |
 | [0881-boats-to-save-people](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0881-boats-to-save-people) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1140-stone-game-ii](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0319-bulb-switcher](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0319-bulb-switcher) |
 | [0412-fizz-buzz](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0523-continuous-subarray-sum](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1140-stone-game-ii](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1563-stone-game-v) |
@@ -403,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1952-three-divisors](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1952-three-divisors) |
 | [2413-smallest-even-multiple](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2427-number-of-common-factors) |
@@ -476,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0229-majority-element-ii) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [2029-stone-game-ix](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [2833-furthest-point-from-origin](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2833-furthest-point-from-origin) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -549,10 +554,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Euclidean Algorithm
 |  |
 | ------- |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [2427-number-of-common-factors](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2427-number-of-common-factors) |
 ## Greatest Common Divisor
 |  |
 | ------- |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [2427-number-of-common-factors](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2427-number-of-common-factors) |
 ## Geometry
 |  |
