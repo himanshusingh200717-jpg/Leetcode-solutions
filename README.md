@@ -256,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2739-total-distance-traveled](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2739-total-distance-traveled) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3360-stone-removal-game](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3360-stone-removal-game) |
 | [3492-maximum-containers-on-a-ship](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3492-maximum-containers-on-a-ship) |
 | [3516-find-closest-person](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3516-find-closest-person) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -356,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2739-total-distance-traveled](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2739-total-distance-traveled) |
 | [2974-minimum-number-game](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2974-minimum-number-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3360-stone-removal-game](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3360-stone-removal-game) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3701-compute-alternating-sum](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3701-compute-alternating-sum) |
 | [3842-toggle-light-bulbs](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3842-toggle-light-bulbs) |
