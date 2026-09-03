@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3731-find-missing-elements) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3842-toggle-light-bulbs](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3842-toggle-light-bulbs) |
 | [3925-concatenate-array-with-reverse](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3925-concatenate-array-with-reverse) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3940-limit-occurrences-in-sorted-array) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3516-find-closest-person](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3516-find-closest-person) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3663-find-the-least-frequent-digit](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3663-find-the-least-frequent-digit) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3894-traffic-signal-color](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3894-traffic-signal-color) |
 | [3908-valid-digit-number](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3908-valid-digit-number) |
 ## Dynamic Programming
