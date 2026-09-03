@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3663-find-the-least-frequent-digit](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3663-find-the-least-frequent-digit) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3731-find-missing-elements) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-find-the-largest-almost-missing-integer](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3663-find-the-least-frequent-digit](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3663-find-the-least-frequent-digit) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3701-compute-alternating-sum](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3701-compute-alternating-sum) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3492-maximum-containers-on-a-ship](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3492-maximum-containers-on-a-ship) |
 | [3516-find-closest-person](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3516-find-closest-person) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3663-find-the-least-frequent-digit](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3663-find-the-least-frequent-digit) |
 | [3894-traffic-signal-color](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3894-traffic-signal-color) |
 | [3908-valid-digit-number](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3908-valid-digit-number) |
 ## Dynamic Programming
@@ -490,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [2029-stone-game-ix](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [2833-furthest-point-from-origin](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2833-furthest-point-from-origin) |
+| [3663-find-the-least-frequent-digit](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3663-find-the-least-frequent-digit) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Segment Tree
 |  |
