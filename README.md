@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3842-toggle-light-bulbs](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3842-toggle-light-bulbs) |
+| [3903-smallest-stable-index-i](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
 | [3925-concatenate-array-with-reverse](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3925-concatenate-array-with-reverse) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3940-limit-occurrences-in-sorted-array) |
 | [4020-elevator-requests-i](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/4020-elevator-requests-i) |
@@ -451,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1872-stone-game-viii](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1872-stone-game-viii) |
 | [2485-find-the-pivot-integer](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2485-find-the-pivot-integer) |
 | [2574-left-and-right-sum-differences](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
+| [3903-smallest-stable-index-i](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
 ## Zero-Sum Game
 |  |
 | ------- |
