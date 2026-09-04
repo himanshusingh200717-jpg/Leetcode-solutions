@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2007-find-original-array-from-doubled-array](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2007-find-original-array-from-doubled-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2029-stone-game-ix](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2029-stone-game-ix) |
+| [2057-smallest-index-with-equal-value](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2057-smallest-index-with-equal-value) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
