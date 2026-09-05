@@ -344,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0050-powx-n) |
 ## Binary Search Tree
 |  |
@@ -377,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0092-reverse-linked-list-ii](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0092-reverse-linked-list-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0148-sort-list) |
