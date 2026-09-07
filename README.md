@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0433-minimum-genetic-mutation](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0433-minimum-genetic-mutation) |
 | [0696-count-binary-substrings](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0696-count-binary-substrings) |
 | [0925-long-pressed-name](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0925-long-pressed-name) |
+| [0940-distinct-subsequences-ii](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1927-sum-game](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1927-sum-game) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0322-coin-change](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0322-coin-change) |
+| [0940-distinct-subsequences-ii](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1563-stone-game-v) |
