@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2974-minimum-number-game](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2974-minimum-number-game) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3731-find-missing-elements](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3731-find-missing-elements) |
 | [3842-toggle-light-bulbs](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3842-toggle-light-bulbs) |
 ## Backtracking
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0278-first-bad-version) |
 | [0658-find-k-closest-elements](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0658-find-k-closest-elements) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Math
 |  |
 | ------- |
@@ -297,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Game Theory
 |  |
