@@ -262,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1486-xor-operation-in-an-array](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1486-xor-operation-in-an-array) |
 | [1563-stone-game-v](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1563-stone-game-v) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1927-sum-game) |
 | [1952-three-divisors](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1952-three-divisors) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1563-stone-game-v) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1872-stone-game-viii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -477,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1140-stone-game-ii](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1140-stone-game-ii) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1872-stone-game-viii) |
 | [2485-find-the-pivot-integer](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2485-find-the-pivot-integer) |
 | [2574-left-and-right-sum-differences](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
@@ -647,4 +650,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
+## Combinatorics
+|  |
+| ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 <!---LeetCode Topics End-->
