@@ -265,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1140-stone-game-ii](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1140-stone-game-ii) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1486-xor-operation-in-an-array](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1486-xor-operation-in-an-array) |
 | [1563-stone-game-v](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1563-stone-game-v) |
@@ -623,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 ## Timsort
 |  |
