@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2256-minimum-average-difference](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2256-minimum-average-difference) |
 | [2293-min-max-game](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2293-min-max-game) |
 | [2367-number-of-arithmetic-triplets](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2418-sort-the-people](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2418-sort-the-people) |
@@ -506,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1872-stone-game-viii](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1872-stone-game-viii) |
+| [2256-minimum-average-difference](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2256-minimum-average-difference) |
 | [2485-find-the-pivot-integer](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2485-find-the-pivot-integer) |
 | [2574-left-and-right-sum-differences](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
 | [3903-smallest-stable-index-i](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
