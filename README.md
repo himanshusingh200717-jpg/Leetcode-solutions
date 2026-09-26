@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0706-design-hashmap) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1096-brace-expansion-ii](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1386-cinema-seat-allocation](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0918-maximum-sum-circular-subarray](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1140-stone-game-ii](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
@@ -520,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1140-stone-game-ii](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
