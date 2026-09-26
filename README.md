@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0835-image-overlap) |
 | [0881-boats-to-save-people](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [0918-maximum-sum-circular-subarray](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1140-stone-game-ii](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0322-coin-change](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0322-coin-change) |
+| [0918-maximum-sum-circular-subarray](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0940-distinct-subsequences-ii](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1406-stone-game-iii) |
@@ -617,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0148-sort-list) |
+| [0918-maximum-sum-circular-subarray](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 ## Merge Sort
 |  |
 | ------- |
@@ -704,4 +707,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+## Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
