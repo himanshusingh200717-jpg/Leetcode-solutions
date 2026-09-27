@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0133-clone-graph) |
 | [0229-majority-element-ii](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0229-majority-element-ii) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0433-minimum-genetic-mutation](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0433-minimum-genetic-mutation) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0523-continuous-subarray-sum](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0278-first-bad-version) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0658-find-k-closest-elements](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -461,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0304-range-sum-query-2d-immutable) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0705-design-hashset](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0706-design-hashmap) |
 ## Hash Function
@@ -596,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Matrix
 |  |
@@ -695,6 +699,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Bipartite Graph
@@ -729,4 +734,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+## Data Stream
+|  |
+| ------- |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0352-data-stream-as-disjoint-intervals) |
 <!---LeetCode Topics End-->
