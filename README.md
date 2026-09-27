@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-long-pressed-name](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0925-long-pressed-name) |
 | [0940-distinct-subsequences-ii](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -622,6 +623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0682-baseball-game](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0682-baseball-game) |
 | [1096-brace-expansion-ii](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -723,4 +725,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
