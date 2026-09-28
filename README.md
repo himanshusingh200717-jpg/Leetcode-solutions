@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0047-permutations-ii](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0063-unique-paths-ii) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0050-powx-n) |
 | [0096-unique-binary-search-trees](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
 | [0172-factorial-trailing-zeroes](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0172-factorial-trailing-zeroes) |
@@ -618,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0304-range-sum-query-2d-immutable](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0304-range-sum-query-2d-immutable) |
