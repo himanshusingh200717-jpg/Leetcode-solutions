@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0207-course-schedule) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0934-shortest-bridge](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0934-shortest-bridge) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1020-number-of-enclaves) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0322-coin-change) |
 | [0433-minimum-genetic-mutation](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0433-minimum-genetic-mutation) |
 | [0909-snakes-and-ladders](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0909-snakes-and-ladders) |
+| [0934-shortest-bridge](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0934-shortest-bridge) |
 | [1020-number-of-enclaves](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1020-number-of-enclaves) |
 | [1096-brace-expansion-ii](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-snakes-and-ladders](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0909-snakes-and-ladders) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0918-maximum-sum-circular-subarray](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
+| [0934-shortest-bridge](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0934-shortest-bridge) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1020-number-of-enclaves](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1020-number-of-enclaves) |
@@ -632,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0498-diagonal-traverse) |
 | [0835-image-overlap](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0835-image-overlap) |
 | [0909-snakes-and-ladders](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0909-snakes-and-ladders) |
+| [0934-shortest-bridge](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0934-shortest-bridge) |
 | [1020-number-of-enclaves](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
