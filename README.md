@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0207-course-schedule) |
+| [0301-remove-invalid-parentheses](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0322-coin-change) |
 | [0433-minimum-genetic-mutation](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0433-minimum-genetic-mutation) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0864-shortest-path-to-get-all-keys) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0115-distinct-subsequences](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0127-word-ladder) |
+| [0301-remove-invalid-parentheses](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0412-fizz-buzz](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0433-minimum-genetic-mutation](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0433-minimum-genetic-mutation) |
 | [0678-valid-parenthesis-string](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0090-subsets-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Bit Manipulation
