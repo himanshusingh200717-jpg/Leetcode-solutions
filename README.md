@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2551-put-marbles-in-bags](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2551-put-marbles-in-bags) |
 | [2574-left-and-right-sum-differences](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2733-neither-minimum-nor-maximum](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2733-neither-minimum-nor-maximum) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2784-check-if-array-is-good](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2784-check-if-array-is-good) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -443,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1952-three-divisors](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1952-three-divisors) |
 | [2367-number-of-arithmetic-triplets](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2427-number-of-common-factors](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2427-number-of-common-factors) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
