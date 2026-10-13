@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0207-course-schedule) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0934-shortest-bridge](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0934-shortest-bridge) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1020-number-of-enclaves) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0322-coin-change) |
 | [0433-minimum-genetic-mutation](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0433-minimum-genetic-mutation) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0864-shortest-path-to-get-all-keys) |
 | [0909-snakes-and-ladders](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0909-snakes-and-ladders) |
 | [0934-shortest-bridge](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0934-shortest-bridge) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0207-course-schedule) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [3310-remove-methods-from-project](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3310-remove-methods-from-project) |
 ## Topological Sort
@@ -406,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0322-coin-change](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0322-coin-change) |
 | [0678-valid-parenthesis-string](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0918-maximum-sum-circular-subarray](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0940-distinct-subsequences-ii](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1140-stone-game-ii) |
@@ -798,6 +802,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0658-find-k-closest-elements) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2551-put-marbles-in-bags](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2551-put-marbles-in-bags) |
 | [2974-minimum-number-game](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2974-minimum-number-game) |
@@ -866,4 +871,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+## Shortest Path
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
