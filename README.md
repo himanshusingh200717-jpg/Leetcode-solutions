@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1535-find-the-winner-of-an-array-game](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1535-find-the-winner-of-an-array-game) |
 | [1563-stone-game-v](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1630-arithmetic-subarrays](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1630-arithmetic-subarrays) |
 | [1646-get-maximum-in-generated-array](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1646-get-maximum-in-generated-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -381,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1486-xor-operation-in-an-array](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1486-xor-operation-in-an-array) |
 | [1563-stone-game-v](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1872-stone-game-viii](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1872-stone-game-viii) |
@@ -433,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1872-stone-game-viii) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -493,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Tree
 |  |
 | ------- |
@@ -503,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Recursion
 |  |
 | ------- |
@@ -516,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Simulation
 |  |
 | ------- |
@@ -766,6 +772,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0148-sort-list) |
 | [0918-maximum-sum-circular-subarray](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Merge Sort
 |  |
 | ------- |
@@ -841,6 +848,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1254-number-of-closed-islands) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Bipartite Graph
 |  |
@@ -862,6 +870,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Queue
 |  |
@@ -903,4 +912,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Memoization
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
