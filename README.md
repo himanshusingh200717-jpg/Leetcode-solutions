@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1706-where-will-the-ball-fall](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1706-where-will-the-ball-fall) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1872-stone-game-viii](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1872-stone-game-viii) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1630-arithmetic-subarrays](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1630-arithmetic-subarrays) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [2007-find-original-array-from-doubled-array](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2007-find-original-array-from-doubled-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -596,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1927-sum-game](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1927-sum-game) |
 | [2007-find-original-array-from-doubled-array](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2007-find-original-array-from-doubled-array) |
 | [2029-stone-game-ix](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2029-stone-game-ix) |
@@ -740,6 +743,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1329-sort-the-matrix-diagonally](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1329-sort-the-matrix-diagonally) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1706-where-will-the-ball-fall](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1706-where-will-the-ball-fall) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
