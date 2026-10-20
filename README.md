@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3842-toggle-light-bulbs](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3842-toggle-light-bulbs) |
+| [3886-sum-of-sortable-integers](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3904-smallest-stable-index-ii) |
 | [3925-concatenate-array-with-reverse](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3925-concatenate-array-with-reverse) |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3727-maximum-alternating-sum-of-squares](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3731-find-missing-elements) |
 | [3842-toggle-light-bulbs](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3842-toggle-light-bulbs) |
+| [3886-sum-of-sortable-integers](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3886-sum-of-sortable-integers) |
 ## Backtracking
 |  |
 | ------- |
@@ -421,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3870-count-commas-in-range](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3871-count-commas-in-range-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3886-sum-of-sortable-integers) |
 | [3894-traffic-signal-color](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3894-traffic-signal-color) |
 | [3908-valid-digit-number](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3908-valid-digit-number) |
 ## Dynamic Programming
@@ -491,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+| [3886-sum-of-sortable-integers](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3886-sum-of-sortable-integers) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Tree
 |  |
