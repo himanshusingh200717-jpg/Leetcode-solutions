@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1563-stone-game-v) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1630-arithmetic-subarrays](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1630-arithmetic-subarrays) |
+| [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1646-get-maximum-in-generated-array](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1646-get-maximum-in-generated-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1630-arithmetic-subarrays](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1630-arithmetic-subarrays) |
+| [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
