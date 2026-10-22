@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3904-smallest-stable-index-ii](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3904-smallest-stable-index-ii) |
 | [3925-concatenate-array-with-reverse](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3925-concatenate-array-with-reverse) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3940-limit-occurrences-in-sorted-array) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 | [4020-elevator-requests-i](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/4020-elevator-requests-i) |
 ## String
 |  |
