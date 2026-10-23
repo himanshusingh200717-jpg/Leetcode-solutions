@@ -11,7 +11,7 @@ public:
             }
             maxi=max(maxi*nums[i],nums[i]);
             mini=min(mini*nums[i],nums[i]);
-            ans=max({ans,maxi,mini});
+            ans=max(ans,maxi);
             
         }
         
