@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1254-number-of-closed-islands](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [3310-remove-methods-from-project](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3310-remove-methods-from-project) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1345-jump-game-iv](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1345-jump-game-iv) |
 | [3310-remove-methods-from-project](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph Theory
 |  |
 | ------- |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3663-find-the-least-frequent-digit](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3663-find-the-least-frequent-digit) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
@@ -767,6 +770,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Prime Factorization
 |  |
 | ------- |
@@ -874,6 +878,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Bipartite Graph
 |  |
 | ------- |
