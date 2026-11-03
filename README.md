@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2367-number-of-arithmetic-triplets](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2418-sort-the-people](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2418-sort-the-people) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2475-number-of-unequal-triplets-in-array) |
+| [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2784-check-if-array-is-good](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2784-check-if-array-is-good) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2551-put-marbles-in-bags](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2551-put-marbles-in-bags) |
 | [2574-left-and-right-sum-differences](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
+| [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2733-neither-minimum-nor-maximum](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2733-neither-minimum-nor-maximum) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2784-check-if-array-is-good](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2784-check-if-array-is-good) |
