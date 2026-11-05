@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1329-sort-the-matrix-diagonally](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1329-sort-the-matrix-diagonally) |
 | [1345-jump-game-iv](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1345-jump-game-iv) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1424-diagonal-traverse-ii](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1424-diagonal-traverse-ii) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [1096-brace-expansion-ii](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [1329-sort-the-matrix-diagonally](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1329-sort-the-matrix-diagonally) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1424-diagonal-traverse-ii](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1424-diagonal-traverse-ii) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -391,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0352-data-stream-as-disjoint-intervals](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0658-find-k-closest-elements](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
@@ -509,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0696-count-binary-substrings) |
 | [0881-boats-to-save-people](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0925-long-pressed-name](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0925-long-pressed-name) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2367-number-of-arithmetic-triplets](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2396-strictly-palindromic-number](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
