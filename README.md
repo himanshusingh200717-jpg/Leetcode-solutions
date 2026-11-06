@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1074-number-of-submatrices-that-sum-to-target](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1096-brace-expansion-ii](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1020-number-of-enclaves](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1020-number-of-enclaves) |
+| [1074-number-of-submatrices-that-sum-to-target](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1140-stone-game-ii](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1254-number-of-closed-islands](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
@@ -696,6 +698,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1074-number-of-submatrices-that-sum-to-target](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1140-stone-game-ii](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -789,6 +792,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-snakes-and-ladders](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0909-snakes-and-ladders) |
 | [0934-shortest-bridge](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0934-shortest-bridge) |
 | [1020-number-of-enclaves](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1020-number-of-enclaves) |
+| [1074-number-of-submatrices-that-sum-to-target](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1254-number-of-closed-islands](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1329-sort-the-matrix-diagonally](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1329-sort-the-matrix-diagonally) |
