@@ -494,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1872-stone-game-viii) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2327-number-of-people-aware-of-a-secret](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2327-number-of-people-aware-of-a-secret) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -603,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2293-min-max-game](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2293-min-max-game) |
+| [2327-number-of-people-aware-of-a-secret](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2327-number-of-people-aware-of-a-secret) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2739-total-distance-traveled](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2739-total-distance-traveled) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -962,6 +964,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
+| [2327-number-of-people-aware-of-a-secret](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2327-number-of-people-aware-of-a-secret) |
 ## Monotonic Queue
 |  |
 | ------- |
