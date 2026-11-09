@@ -1,25 +1,23 @@
 class Solution {
 public:
 int mod=1e9+7;
-int t[1001];
-int solve(int day, int delay, int forget){
-    if(day==1)return 1;
-    if(t[day]!=-1)return t[day];
-    int result=0;
-    for(int d=day-forget+1;d<=day-delay;d++){
-        if(d>0)
-        result=(result+solve(d,delay,forget))%mod;
-    }
-    return t[day]=result;
-}
     int peopleAwareOfSecret(int n, int delay, int forget) {
-        memset(t,-1,sizeof(t));
-        int total=0;
-        for(int d=n-forget+1;d<=n;d++){
-            if(d>0)
-            total=(total+solve(d,delay,forget))%mod;
+        vector<int>t(n+1);
+        int count=0;
+        t[1]=1;
+        for(int day=2;day<=n;day++){
+             if(day-delay>0)
+            count=(count+t[day-delay])%mod;
+            if(day-forget>0)
+            count=(count-t[day-forget]+mod)%mod; 
+            t[day]=count;
         }
-        return total;
+        int result=0;
+        for(int day=n-forget+1;day<=n;day++){
+            if(day>0)
+            result=(result+t[day])%mod;
+        }
+        return result;
 
     }
 };
