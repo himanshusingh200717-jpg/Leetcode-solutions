@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2974-minimum-number-game](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2974-minimum-number-game) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -644,6 +645,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0705-design-hashset](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0706-design-hashmap) |
+| [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -1013,4 +1015,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Rolling Hash
+|  |
+| ------- |
+| [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
+## String Matching
+|  |
+| ------- |
+| [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
 <!---LeetCode Topics End-->
