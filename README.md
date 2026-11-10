@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3663-find-the-least-frequent-digit](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3663-find-the-least-frequent-digit) |
 | [3665-twisted-mirror-path-count](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3665-twisted-mirror-path-count) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
+| [3693-climbing-stairs-ii](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3693-climbing-stairs-ii) |
 | [3701-compute-alternating-sum](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3701-compute-alternating-sum) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -501,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3665-twisted-mirror-path-count](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3665-twisted-mirror-path-count) |
+| [3693-climbing-stairs-ii](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3693-climbing-stairs-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Game Theory
