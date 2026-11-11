@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1254-number-of-closed-islands](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
+| [2596-check-knight-tour-configuration](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2596-check-knight-tour-configuration) |
 | [3310-remove-methods-from-project](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3310-remove-methods-from-project) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1267-count-servers-that-communicate](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1345-jump-game-iv](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1345-jump-game-iv) |
+| [2596-check-knight-tour-configuration](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2596-check-knight-tour-configuration) |
 | [3310-remove-methods-from-project](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2551-put-marbles-in-bags](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2551-put-marbles-in-bags) |
 | [2574-left-and-right-sum-differences](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
+| [2596-check-knight-tour-configuration](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2596-check-knight-tour-configuration) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2733-neither-minimum-nor-maximum](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2733-neither-minimum-nor-maximum) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -613,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2293-min-max-game](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2293-min-max-game) |
 | [2327-number-of-people-aware-of-a-secret](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2327-number-of-people-aware-of-a-secret) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
+| [2596-check-knight-tour-configuration](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2596-check-knight-tour-configuration) |
 | [2739-total-distance-traveled](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2739-total-distance-traveled) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2974-minimum-number-game](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2974-minimum-number-game) |
@@ -827,6 +831,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1727-largest-submatrix-with-rearrangements](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
+| [2596-check-knight-tour-configuration](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2596-check-knight-tour-configuration) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
