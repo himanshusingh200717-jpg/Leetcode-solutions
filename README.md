@@ -290,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0072-edit-distance](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0127-word-ladder) |
 | [0301-remove-invalid-parentheses](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
@@ -496,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0063-unique-paths-ii](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0063-unique-paths-ii) |
+| [0072-edit-distance](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0072-edit-distance) |
 | [0096-unique-binary-search-trees](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
 | [0115-distinct-subsequences](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
