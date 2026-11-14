@@ -296,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0412-fizz-buzz](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0433-minimum-genetic-mutation](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0433-minimum-genetic-mutation) |
+| [0516-longest-palindromic-subsequence](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0696-count-binary-substrings](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0696-count-binary-substrings) |
 | [0856-score-of-parentheses](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0856-score-of-parentheses) |
@@ -505,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0322-coin-change) |
+| [0516-longest-palindromic-subsequence](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0873-length-of-longest-fibonacci-subsequence) |
