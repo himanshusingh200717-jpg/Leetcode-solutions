@@ -255,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3101-count-alternating-subarrays](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3101-count-alternating-subarrays) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3364-minimum-positive-sum-subarray](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3364-minimum-positive-sum-subarray) |
@@ -489,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2544-alternating-digit-sum](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2544-alternating-digit-sum) |
 | [2739-total-distance-traveled](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2739-total-distance-traveled) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3101-count-alternating-subarrays](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3101-count-alternating-subarrays) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3360-stone-removal-game](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3360-stone-removal-game) |
