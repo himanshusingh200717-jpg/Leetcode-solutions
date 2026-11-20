@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0063-unique-paths-ii) |
@@ -514,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
+| [0053-maximum-subarray](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0072-edit-distance](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0072-edit-distance) |
 | [0096-unique-binary-search-trees](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
@@ -916,6 +918,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0148-sort-list) |
 | [0918-maximum-sum-circular-subarray](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
