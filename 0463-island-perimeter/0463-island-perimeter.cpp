@@ -1,33 +1,40 @@
 class Solution {
 public:
-int m;
-int n;
-int perimeter;
-void dfs(int i,int j,vector<vector<int>>& grid){
-    if(i<0||i>=m||j<0||j>=n||grid[i][j]==0){
-        perimeter++;
-        return;
-    }
-    if(grid[i][j]==-1)return;
-    grid[i][j]=-1;
-    dfs(i+1,j,grid);
-    dfs(i-1,j,grid);
-    dfs(i,j+1,grid);
-    dfs(i,j-1,grid);
-
-}
     int islandPerimeter(vector<vector<int>>& grid) {
-        m=grid.size();
-        n=grid[0].size();
-        perimeter=0;
-        for(int i=0;i<m;i++){
-            for(int j=0;j<n;j++){
+        int n=grid.size();
+        int m=grid[0].size();
+        int dx[]={1,-1,0,0};
+        int dy[]={0,0,1,-1};
+        queue<pair<int,int>>q;
+        int peri=0;
+        vector<vector<int>>vis(n,vector<int>(m,0));
+        for(int i=0;i<n;i++){
+            for(int j=0;j<m;j++){
                 if(grid[i][j]==1){
-                    dfs(i,j,grid);
-                    return perimeter;
+                    q.push({i,j});
+                    vis[i][j]=1;
+                    break;
                 }
             }
+            if(!q.empty())break;
         }
-        return -1;
+        while(!q.empty()){
+            auto [x,y]=q.front();
+            q.pop();
+            for(int k=0;k<4;k++){
+                int nx=x+dx[k];
+                int ny=y+dy[k];
+                if(nx<0||nx>=n||ny<0||ny>=m||grid[nx][ny]==0){
+                    peri++;
+                }else if(!vis[nx][ny]){
+                    vis[nx][ny]=1;
+                    q.push({nx,ny});
+
+                }
+            }
+
+
+        }
+        return peri;
     }
 };
