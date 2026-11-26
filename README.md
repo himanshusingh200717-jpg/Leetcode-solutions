@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1254-number-of-closed-islands](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
+| [1992-find-all-groups-of-farmland](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1992-find-all-groups-of-farmland) |
 | [2596-check-knight-tour-configuration](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2596-check-knight-tour-configuration) |
 | [3310-remove-methods-from-project](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3310-remove-methods-from-project) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3331-find-subtree-sizes-after-changes) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1267-count-servers-that-communicate](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1345-jump-game-iv](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1345-jump-game-iv) |
+| [1992-find-all-groups-of-farmland](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1992-find-all-groups-of-farmland) |
 | [2596-check-knight-tour-configuration](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2596-check-knight-tour-configuration) |
 | [3310-remove-methods-from-project](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1929-concatenation-of-array](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1929-concatenation-of-array) |
+| [1992-find-all-groups-of-farmland](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1992-find-all-groups-of-farmland) |
 | [2007-find-original-array-from-doubled-array](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2007-find-original-array-from-doubled-array) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -905,6 +908,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1706-where-will-the-ball-fall](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1706-where-will-the-ball-fall) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1992-find-all-groups-of-farmland](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1992-find-all-groups-of-farmland) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2596-check-knight-tour-configuration](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2596-check-knight-tour-configuration) |
