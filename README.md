@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1096-brace-expansion-ii](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [1248-count-number-of-nice-subarrays](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1345-jump-game-iv](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1345-jump-game-iv) |
 | [1386-cinema-seat-allocation](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1020-number-of-enclaves) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1140-stone-game-ii](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1140-stone-game-ii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1254-number-of-closed-islands](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
@@ -478,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1140-stone-game-ii](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1140-stone-game-ii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1486-xor-operation-in-an-array](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1486-xor-operation-in-an-array) |
@@ -790,6 +793,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1140-stone-game-ii](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1140-stone-game-ii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -841,6 +845,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0658-find-k-closest-elements](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0930-binary-subarrays-with-sum](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/himanshusingh200717-jpg/Leetcode-solutions/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
