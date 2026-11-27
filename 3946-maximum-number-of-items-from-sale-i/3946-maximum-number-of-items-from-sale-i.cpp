@@ -1,25 +1,8 @@
 class Solution {
 public:
-int t[1001][1501];
-int solve(int n,vector<vector<int>>& items, int budget,vector<int>&copies,int minprice){
-    if(n==0){
-        return budget/minprice;
-    }
-    if(t[n][budget]!=-1)return t[n][budget];
-    int take=0;
-    int skip=0;
-    int price=items[n-1][1];
-    if(budget>=price){
-        take=1+copies[n-1]+solve(n-1,items,budget-price,copies,minprice);
-    }
-    skip=solve(n-1,items,budget,copies,minprice);
-    return t[n][budget]=max(take,skip);
-
-}
     int maximumSaleItems(vector<vector<int>>& items, int budget) {
         int n=items.size();
-        memset(t,-1,sizeof(t));
-        int minprice=INT_MAX;
+         int minprice=INT_MAX;
         vector<int>copies(n,0);
         for(int i=0;i<n;i++){
             minprice=min(minprice,items[i][1]);
@@ -31,7 +14,24 @@ int solve(int n,vector<vector<int>>& items, int budget,vector<int>&copies,int mi
             }
             copies[i]=copy;
         }
-        return solve(n,items,budget,copies,minprice);
-        
+        vector<vector<int>>dp(n+1,vector<int>(budget+1,0));
+        for(int b=0;b<=budget;b++){
+            dp[0][b]=b/minprice;
+        }
+        for(int i=1;i<=n;i++){
+            for(int b=0;b<=budget;b++){
+                int price=items[i-1][1];
+                int take=0;
+                int skip=0;
+                if(price<=b){
+                    take=1+copies[i-1]+dp[i-1][b-price];
+                }
+                skip=dp[i-1][b];
+                dp[i][b]=max(take,skip);
+                
+
+            }
+        }
+        return dp[n][budget];
     }
 };
